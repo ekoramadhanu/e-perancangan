@@ -125,7 +125,6 @@ export default {
             `Barcode detected and processed : [${result.codeResult.code}]`,
             result,
           );
-          Quagga.stop();
         });
       });
     },
