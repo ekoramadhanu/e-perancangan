@@ -80,7 +80,7 @@ export default {
             'upc_reader',
             'upc_e_reader',
             'i2of5_reader',
-            '2of5_reader',
+            'code_93_reader',
           ],
           debug: {
             showCanvas: true,
